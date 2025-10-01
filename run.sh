@@ -24,3 +24,5 @@ cd /system/priv-app/AODService
 dump AODService.apk AODService.apk
 quit
 EOF
+
+echo "[✓] APKs extracted: SmartSuggestions.apk, AODService.apk"
